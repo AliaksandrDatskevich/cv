@@ -7,7 +7,7 @@
 * e-mail: datskevich.a@gmail.com
 * Linkedin: [linkedin.com/in/alexander-datskevich](https://www.linkedin.com/in/alexander-datskevich/)
 * Git: [AliaksandrDatskevich](https://github.com/AliaksandrDatskevich)
-* Discord-server rs-schul: Dacent (@AliaksandrDatskevich)
+* Discord-server rs-schul: @AliaksandrDatskevich
 
 ## Skills
 
