@@ -21,13 +21,13 @@
 
 <body>
 
-  <p>Перед скриптом...</p>
+  <p>Before script...</p>
 
   <script>
-    alert( 'Привет, мир!' );
+    alert( 'Hello world!' );
   </script>
 
-  <p>...После скрипта.</p>
+  <p>...After script</p>
 
 </body>
 
