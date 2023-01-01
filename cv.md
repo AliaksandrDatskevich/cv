@@ -58,7 +58,7 @@ mechanical engineer (2003-2008)
    + Leading Specialist
 (Aug. 2011 - Sept. 2012 (1 year))
 
-   Today I work in the transport insurance department as the head of the sector and am responsible for the settlement of insured events with VIP clients, the organization of work on handling complaints, monitoring the activities of subordinate separate divisions, advising the heads of departments of subordinate branches and representative offices, making proposals for improving insurance rules, preparing analytical reports, coordinating large payments, making foreign currency payments to non-residents, etc.
+   At the beginning of my career in Belgosstrakh, I checked for compliance with the legislation of calculating the amount of harm for transport types of insurance. Today I work in the transport insurance department as the head of the sector and am responsible for the settlement of insured events with VIP clients, the organization of work on handling complaints, monitoring the activities of subordinate separate divisions, advising the heads of departments of subordinate branches and representative offices, making proposals for improving insurance rules, preparing analytical reports, coordinating large payments, making foreign currency payments to non-residents, etc.
 
 * [**OJSC "Minsk Wheel Tractor Plant"**](https://www.mzkt.by/en/)
    + design engineer
