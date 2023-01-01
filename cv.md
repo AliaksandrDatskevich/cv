@@ -15,6 +15,25 @@
 * Advanced PC user
 * Familiar with: SQL, HTTP, HTML, CSS, JavaScript, Git
 
+```html
+<!DOCTYPE HTML>
+<html>
+
+<body>
+
+  <p>Перед скриптом...</p>
+
+  <script>
+    alert( 'Привет, мир!' );
+  </script>
+
+  <p>...После скрипта.</p>
+
+</body>
+
+</html>
+```
+
 ## Education
 
 * [**Belarusian National Technical University**](https://bntu.by/en)
