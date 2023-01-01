@@ -7,6 +7,7 @@
 * e-mail: datskevich.a@gmail.com
 * Linkedin: [linkedin.com/in/alexander-datskevich](https://www.linkedin.com/in/alexander-datskevich/)
 * Git: [AliaksandrDatskevich](https://github.com/AliaksandrDatskevich)
+* Discord-server rs-schul: Dacent (@AliaksandrDatskevich)
 
 ## Skills
 
@@ -40,7 +41,7 @@ mechanical engineer (2003-2008)
 
    At the beginning of his career in Belgosstrakh, he checked for compliance with the legislation of calculating the amount of harm for transport types of insurance. Today I work in the transport insurance department as the head of the sector (2 subordinates) and am responsible for the settlement of insured events with VIP clients, the organization of work on the consideration of applications from citizens and legal entities. persons, monitoring the activities of subordinate separate divisions, advising the heads of departments of subordinate branches and representative offices, making proposals for improving insurance rules, preparing analytical reports, coordinating large payments, making foreign currency payments to non-residents, etc.
 
-* [**OJSC "MMinsk Wheel Tractor Plant"**](https://www.mzkt.by/en/)
+* [**OJSC "Minsk Wheel Tractor Plant"**](https://www.mzkt.by/en/)
    + design engineer
 (Jul 2008 - Aug. 2011 (3 years))
 
