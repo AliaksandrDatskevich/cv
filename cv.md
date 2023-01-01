@@ -14,7 +14,7 @@
 * Advanced PC user
 * Familiar with: SQL, HTTP, HTML, CSS, JavaScript, Git
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 
