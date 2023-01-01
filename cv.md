@@ -3,11 +3,11 @@
 ## Contacts
 
 * Location: Minsk, Belarus
-* Phone: +375 44 577 06 52
+* Phone: +375 29 323 10 69
 * e-mail: datskevich.a@gmail.com
 * Linkedin: [linkedin.com/in/alexander-datskevich](https://www.linkedin.com/in/alexander-datskevich/)
 * Git: [AliaksandrDatskevich](https://github.com/AliaksandrDatskevich)
-* Discord-server rs-schul: @AliaksandrDatskevich
+* Discord-server rs-school: @AliaksandrDatskevich
 
 ## Skills
 
