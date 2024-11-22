@@ -50,9 +50,9 @@ mechanical engineer (2003-2008)
 
 ## Work experience
 
-* [**BRUIC "Belgosstrakh"**](https://bgs.by/en/) (central office) (11 years)
+* [**BRUIC "Belgosstrakh"**](https://bgs.by/en/) (central office) (12 years)
    + head of the sector of expert assessments, analysis and control
-(Jan. 2018 - present (5 years))
+(Jan. 2018 - Dec. 2023 (6 years))
    + vehicle appraiser
 (Sept. 2012 - Jan. 2018 (5 years))
    + Leading Specialist
